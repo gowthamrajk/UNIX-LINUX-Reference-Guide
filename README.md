@@ -2,7 +2,14 @@
 
 - In This module, I will be adding some Basic UNIX commands and its reference guide to kick start with the UNIX Operating System easier and some useful tutorial References.
 
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
+### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io) 🌐
+
+## Learning Resources 📺
+
+- [Basic Unix Commands](https://www.youtube.com/watch?v=MsCeNzWQAlE)
+- [Top 30 most used Unix Commands](https://www.youtube.com/watch?v=rFwdniyo0CM&t=11s)
+- [Basic Unix Commands in Tamil](https://www.youtube.com/watch?v=kffzTQiOBd4&t=727s)
+- [Unix/Linux Basic commands](https://www.youtube.com/watch?v=SfZ567IlInw)
 
 <br>
 
